@@ -25,11 +25,6 @@
           fetch="https://gitlab.com/thephotogenicbug"
           revision="pie" />
 
-
-  <remote name=""
-          fetch="https://github.com/Atom-OS-Project"
-          revision="pie" />
-
   <!-- Removed projects -->	   
   <include name="remove.xml" />
 
